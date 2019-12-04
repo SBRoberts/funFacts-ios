@@ -22,6 +22,8 @@
         @"Some penguins can leap 2-3 meters out of the water.",
         @"On average, it takes 66 days to form a new habit.",
         @"Mammoths still walked the Earth when the Great Pyramid was being built.",
+        @"North Korea and Cuba are the only places you can't buy Coca-Cola",
+        @"There are only three countries in the world that don't use the metric system.",
         nil];
     }
     return self;
